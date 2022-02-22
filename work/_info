@@ -1,0 +1,241 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/yusuf/Documents/GitHub/modelsim_verilog/singlecycleMIPS-lite-commented
+vadder
+!s110 1624129768
+!i10b 1
+!s100 gWb<;Y:[8c^V3JALeYLDZ1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQk92HEf<UYHmI0:H<na]?3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented
+Z3 w1623615248
+8C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/adder.v
+FC:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/adder.v
+!i122 476
+Z4 L0 1 5
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1624129768.000000
+!s107 C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/adder.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+valu32
+Z9 !s110 1624129769
+!i10b 1
+!s100 C6VH3k8e25M8:QA4?N4@>0
+R0
+IlGcZbMRidJk4X74ZIee`[1
+R1
+R2
+w1624057768
+8C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/alu32.v
+FC:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/alu32.v
+!i122 477
+L0 1 32
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/alu32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/alu32.v|
+!i113 1
+R7
+R8
+valucont
+R9
+!i10b 1
+!s100 4GOSdO8oUechWN4EMPiGJ2
+R0
+I^PW>ooB5@n8MXJJ2T1=6D2
+R1
+R2
+w1624126306
+8C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/alucont.v
+FC:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/alucont.v
+!i122 478
+L0 1 33
+R5
+r1
+!s85 0
+31
+Z10 !s108 1624129769.000000
+!s107 C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/alucont.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/alucont.v|
+!i113 1
+R7
+R8
+vcontrol
+R9
+!i10b 1
+!s100 kdDecLJGSZaK5TFkfhgEL2
+R0
+I`o[5]M;_SEFz580<TZ@zj0
+R1
+R2
+w1624127348
+8C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/control.v
+FC:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/control.v
+!i122 479
+L0 1 29
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/control.v|
+!i113 1
+R7
+R8
+vjump
+R9
+!i10b 1
+!s100 KoSn<3V=VQVF?Yb28<Hdn0
+R0
+IQSTD`C@@6?ETBgc7EQKm<1
+R1
+R2
+w1623772580
+8C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/jump.v
+FC:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/jump.v
+!i122 480
+L0 1 10
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/jump.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/jump.v|
+!i113 1
+R7
+R8
+vmult2_to_1_32
+R9
+!i10b 1
+!s100 Y_Id<LIRQ3DbCYAcIf6lb3
+R0
+IzH>J9zN8RMzc]<4B][?hb3
+R1
+R2
+R3
+8C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/mult2_to_1_32.v
+FC:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/mult2_to_1_32.v
+!i122 482
+Z11 L0 1 6
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/mult2_to_1_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/mult2_to_1_32.v|
+!i113 1
+R7
+R8
+vmult2_to_1_5
+R9
+!i10b 1
+!s100 QeR<>khHHW047@W2MP@;I2
+R0
+IiHY<z:3A=`P3[6_gJ^lZf3
+R1
+R2
+R3
+8C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/mult2_to_1_5.v
+FC:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/mult2_to_1_5.v
+!i122 481
+R11
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/mult2_to_1_5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/mult2_to_1_5.v|
+!i113 1
+R7
+R8
+vprocessor
+Z12 !s110 1624129770
+!i10b 1
+!s100 g7DBidV5BMh^NV@AnkTAG3
+R0
+I?DI:Ne_?Jc`NbzlOMfn8i2
+R1
+R2
+w1624126926
+8C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/processor.v
+FC:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/processor.v
+!i122 483
+L0 1 188
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/processor.v|
+!i113 1
+R7
+R8
+vshift
+R12
+!i10b 1
+!s100 XX2;Z1lf9Dd@dcO[G5lL:2
+R0
+I5:gQYzfbj>7h;bbbKC_;b2
+R1
+R2
+R3
+8C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/shift.v
+FC:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/shift.v
+!i122 484
+R4
+R5
+r1
+!s85 0
+31
+Z13 !s108 1624129770.000000
+!s107 C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/shift.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/shift.v|
+!i113 1
+R7
+R8
+vsignext
+R12
+!i10b 1
+!s100 aj?PFk=ka=A4[;Kz]?d6F3
+R0
+Iigeoa9@UNk;9eo<1?7J@k1
+R1
+R2
+R3
+8C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/signext.v
+FC:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/signext.v
+!i122 485
+R4
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/senayangoz/Downloads/singlecycleMIPS-lite-commented/signext.v|
+!i113 1
+R7
+R8
